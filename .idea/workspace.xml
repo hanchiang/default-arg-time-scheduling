@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d174703-1b70-44bd-8c1b-782fd9f6726e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1nScypIBURNAj8wCcBrcCMrlmn6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Jest.defaultArgs.js (1)">
+    <configuration name="Default arguments tests.Can apply defaultArgs multiple times" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/integration/defaultArgs.js" />
+      <test-names>
+        <test-name value="Default arguments tests" />
+        <test-name value="Can apply defaultArgs multiple times" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Default arguments tests.extractFnArgString tests.Can extract function argument without spaces" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/defaultArgs.js" />
+      <test-names>
+        <test-name value="Default arguments tests" />
+        <test-name value="extractFnArgString tests" />
+        <test-name value="Can extract function argument without spaces" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="defaultArgs.js (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/__tests__/integration/defaultArgs.js" />
+      <method v="2" />
+    </configuration>
+    <configuration name="defaultArgs.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/__tests__/unit/defaultArgs.js" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.defaultArgs.js (1)" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="Jest.defaultArgs.js" />
+        <item itemvalue="Jest.Default arguments tests.Can apply defaultArgs multiple times" />
+        <item itemvalue="Jest.Default arguments tests.extractFnArgString tests.Can extract function argument without spaces" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d174703-1b70-44bd-8c1b-782fd9f6726e" name="Default Changelist" comment="" />
+      <created>1611387190663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611387190663</updated>
+      <workItem from="1611387192165" duration="1211000" />
+      <workItem from="1611394544646" duration="4907000" />
+      <workItem from="1611399918009" duration="6090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1809" height="414" key="GridCell.Tab.0.bottom" timestamp="1611409453519">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state width="1809" height="414" key="GridCell.Tab.0.bottom/73.27.1847.1053@73.27.1847.1053" timestamp="1611409453519" />
+    <state width="1809" height="414" key="GridCell.Tab.0.center" timestamp="1611409453519">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state width="1809" height="414" key="GridCell.Tab.0.center/73.27.1847.1053@73.27.1847.1053" timestamp="1611409453519" />
+    <state width="1809" height="414" key="GridCell.Tab.0.left" timestamp="1611409453518">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state width="1809" height="414" key="GridCell.Tab.0.left/73.27.1847.1053@73.27.1847.1053" timestamp="1611409453518" />
+    <state width="1809" height="414" key="GridCell.Tab.0.right" timestamp="1611409453519">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state width="1809" height="414" key="GridCell.Tab.0.right/73.27.1847.1053@73.27.1847.1053" timestamp="1611409453519" />
+  </component>
+</project>
